@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MulticastDelegate
 {
-    class Program
+    class MulticastDelegate
     {
         //Multicast Delagate enables to reference on more than one method with the same signature.
         //On methods with return types, only the last method's return value is retrieved by the delegate.
